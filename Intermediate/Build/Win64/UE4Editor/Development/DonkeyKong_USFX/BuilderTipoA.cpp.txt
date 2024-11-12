@@ -1,0 +1,7 @@
+C:\Users\Usuario\OneDrive\unreal\PATRONES\FACADE\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong_USFX\Definitions.DonkeyKong_USFX.h
+C:\Users\Usuario\OneDrive\unreal\PATRONES\FACADE\Source\DonkeyKong_USFX\BuilderTipoA.h
+C:\Users\Usuario\OneDrive\unreal\PATRONES\FACADE\Source\DonkeyKong_USFX\BuilderNiveles.h
+C:\Users\Usuario\OneDrive\unreal\PATRONES\FACADE\Intermediate\Build\Win64\UE4Editor\Inc\DonkeyKong_USFX\BuilderNiveles.generated.h
+C:\Users\Usuario\OneDrive\unreal\PATRONES\FACADE\Intermediate\Build\Win64\UE4Editor\Inc\DonkeyKong_USFX\BuilderTipoA.generated.h
+C:\Users\Usuario\OneDrive\unreal\PATRONES\FACADE\Source\DonkeyKong_USFX\Plataforma.h
+C:\Users\Usuario\OneDrive\unreal\PATRONES\FACADE\Intermediate\Build\Win64\UE4Editor\Inc\DonkeyKong_USFX\Plataforma.generated.h
